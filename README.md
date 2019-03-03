@@ -1,6 +1,6 @@
-> A full fledged Knockout.js application with Node.js as a backend and REST API implemented with latest MongoDB, Mongoose and Express 4
-
 # Invitely 1.0
+
+> A full fledged Knockout.js application with Node.js as a backend and REST API implemented with latest MongoDB, Mongoose and Express 4
 
 `master` branch
 
